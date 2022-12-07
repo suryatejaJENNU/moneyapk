@@ -1,0 +1,43 @@
+.button1 {
+  border-width: 0px;
+  background-color: none;
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+.image1 {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+.table-row1 {
+  display: flex;
+  list-style-type: none;
+  border-left: 1px solid #cbd5e1;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+}
+
+.table-cell1 {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+
+  margin: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name-column1 {
+  width: 33%;
+}
+
+.mobile-no-column {
+  flex-grow: 1;
+}
+
+.mobile-no-value {
+  flex-grow: 1;
+}
